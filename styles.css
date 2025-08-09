@@ -1,0 +1,17 @@
+body{
+  background-color: #B8860B
+}
+h1{
+  text-align: center;
+}
+ .container{
+   margin-top: 100px;
+   text-align: center;
+ }
+ .footer{
+   margin-top: 100px;
+   text-align: center;
+ }
+ .link{
+   text-decoration: none;
+ }
